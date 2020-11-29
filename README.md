@@ -13,4 +13,5 @@ The objective of this repository is comport all contributions maked to [MDN](htt
 	* Pixel CSS: [MDN](https://developer.mozilla.org/pt-BR/docs/Glossario/CSS_pixel) | [GitHub](./translations/glossary/c/css_pixel.md)
 	* Pré-processadores CSS: [MDN](https://developer.mozilla.org/pt-BR/docs/Glossario/CSS_preprocessor) | [GitHub](./translations/glossary/c/css_preprocessor.md)
 * P
+	* Progressive web apps: [MDN](https://developer.mozilla.org/pt-BR/docs/Glossario/Progressive_web_apps) | [GitHub](./translations/glossary/p/progressive_web_apps.md)
 	* Propriedade(Javascript): [MDN](https://developer.mozilla.org/pt-BR/docs/Glossario/property/JavaScript) | [GitHub](./translations/glossary/p/Property_Javascript.md)
